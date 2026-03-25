@@ -1,22 +1,26 @@
 # 👋 I'm Aaron
 
-a Senior Software Engineer at [Root Insurance](https://www.joinroot.com/) with 13+ years of building
-software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and crafting
-maintainable Ruby on Rails applications.
-
-## What I'm working on
-
-- I'm working on a project called Complish at the moment, more details coming soon!
+a Senior Software Engineer at [Root Insurance](https://www.joinroot.com/) with 17+ years of building
+software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and
+crafting maintainable software in Ruby and Rust.
 
 ## Tech I love
 
-Primarily Ruby and React, with strong experience in GraphQL, microservices, and domain-driven design. I dabble in Rust
-and TypeScript, and I'm a big fan of [Hanami].
+Ruby and Rust, with strong experience in Rails, GraphQL, microservices, and domain-driven design. I'm a
+maintainer of [Hanami], [dry-rb], and [rom-rb], and a big fan of everything in that ecosystem.
+
+## Published Crates
+
+| Crate | Description |
+|-------|-------------|
+| [farg](https://crates.io/crates/farg) | Colorimetry, color space conversions, and color manipulation |
+| [doing](https://crates.io/crates/doing) | CLI tool for remembering what you were doing and tracking what you've done |
+| [dir_spec](https://crates.io/crates/dir_spec) | Cross-platform XDG and platform-specific directory resolution with sensible fallbacks |
 
 ## Beyond code
 
-When I'm not programming, you'll find me playing Magic: The Gathering Commander, running D&D campaigns, or overlanding in my Jeep Gladiator Mojave.
-
+When I'm not programming, you'll find me playing Magic: The Gathering Commander, running D&D campaigns,
+or overlanding in my Jeep Gladiator Mojave.
 
 ## 🌐 Socials
 
@@ -34,3 +38,5 @@ When I'm not programming, you'll find me playing Magic: The Gathering Commander,
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [Hanami]: https://hanamirb.org/
+[dry-rb]: https://dry-rb.org/
+[rom-rb]: https://rom-rb.org/
