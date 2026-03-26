@@ -13,8 +13,9 @@ maintainer of [Hanami], [dry-rb], and [rom-rb], and a big fan of everything in t
 
 | Crate | Description |
 |-------|-------------|
-| [farg](https://crates.io/crates/farg) | Colorimetry, color space conversions, and color manipulation |
+| [gest](https://crates.io/crates/gest) | Manage agent-generated artifacts and task backlogs alongside your project |
 | [doing](https://crates.io/crates/doing) | CLI tool for remembering what you were doing and tracking what you've done |
+| [farg](https://crates.io/crates/farg) | Colorimetry, color space conversions, and color manipulation |
 | [dir_spec](https://crates.io/crates/dir_spec) | Cross-platform XDG and platform-specific directory resolution with sensible fallbacks |
 
 ## Beyond code
