@@ -1,6 +1,6 @@
 # 👋 I'm Aaron
 
-a Senior Software Engineer at [Root Insurance](https://www.joinroot.com/) with 17+ years of building
+a Senior Software Engineer with 17+ years of building
 software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and
 crafting maintainable software in Ruby and Rust.
 
