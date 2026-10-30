@@ -1,28 +1,34 @@
 # 👋 I'm Aaron
 
-a Senior Software Engineer with 17+ years of building
-software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and
-crafting maintainable software in Ruby and Rust.
+<https://aaronmallen.me>
+
+a Senior Software Engineer with 17+ years of building software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and crafting maintainable software in Ruby and Rust.
 
 ## Tech I love
 
-Ruby and Rust, with strong experience in Rails, GraphQL, microservices, and domain-driven design. I'm a
-maintainer of [Hanami], [dry-rb], and [rom-rb], and a big fan of everything in that ecosystem.
+Ruby and Rust, with strong experience in Rails, GraphQL, microservices, and domain-driven design. I'm a maintainer of [Hanami], [dry-rb], and [rom-rb], and a big fan of everything in that ecosystem.
 
-## Published Crates
+## Crates
 
-| Crate | Description |
-|-------|-------------|
+| Crate                                         | Description                                                                           |
+|-----------------------------------------------|---------------------------------------------------------------------------------------|
 | [gest](https://crates.io/crates/gest)         | Manage agent-generated artifacts and task backlogs alongside your project             |
 | [doing](https://crates.io/crates/doing)       | CLI tool for remembering what you were doing and tracking what you've done            |
-| [farg](https://crates.io/crates/farg)         | Colorimetry, color space conversions, and color manipulation                          |
-| [dir_spec](https://crates.io/crates/dir_spec) | Cross-platform XDG and platform-specific directory resolution with sensible fallbacks |
 | [compote](https://crates.io/crates/compote)   | Layered configuration. Merge files and environment variables into one typed value     |
+| [dir_spec](https://crates.io/crates/dir_spec) | Cross-platform XDG and platform-specific directory resolution with sensible fallbacks |
+| [farg](https://crates.io/crates/farg)         | Colorimetry, color space conversions, and color manipulation                          |
+
+## Gems
+
+| Gem | Description |
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [phlex-hanami](https://gem.coop/@aaron/phlex-hanami)                     | An object oriented view layer for Hanami. Write views, layouts, and components as Phlex classes instead of templates. |
+| [rubocop-hanami](https://gem.coop/@aaron/rubocop-hanami)                 | RuboCop cops for Hanami apps and slices.                                                                              |
+| [hanami-settings-stores](https://gem.coop/@aaron/hanami-settings-stores) | Password manager-backed settings stores for Hanami                                                                    |
 
 ## Beyond code
 
-When I'm not programming, you'll find me playing Magic: The Gathering Commander, running D&D campaigns,
-or overlanding in my Jeep Gladiator Mojave.
+When I'm not programming, you'll find me playing Magic: The Gathering Commander, running D&D campaigns.
 
 ## 🌐 Socials
 
