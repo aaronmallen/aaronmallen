@@ -23,9 +23,9 @@ Ruby and Rust, with strong experience in Rails, GraphQL, microservices, and doma
 
 | Gem | Description |
 |--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [hanami-settings-stores](https://gem.coop/@aaron/hanami-settings-stores) | Password manager-backed settings stores for Hanami                                                                    |
 | [phlex-hanami](https://gem.coop/@aaron/phlex-hanami)                     | An object oriented view layer for Hanami. Write views, layouts, and components as Phlex classes instead of templates. |
 | [rubocop-hanami](https://gem.coop/@aaron/rubocop-hanami)                 | RuboCop cops for Hanami apps and slices.                                                                              |
-| [hanami-settings-stores](https://gem.coop/@aaron/hanami-settings-stores) | Password manager-backed settings stores for Hanami                                                                    |
 
 ## Beyond code
 
