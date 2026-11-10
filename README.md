@@ -4,6 +4,11 @@
 
 a Senior Software Engineer with 17+ years of building software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and crafting maintainable software in Ruby and Rust.
 
+## Source code
+
+My source code now lives on [aaronmallen.dev]. My GitHub repositories will be mirrors of those hosted there. You can find my old GitHub source code in the [GitHub archive].
+Add these links at the bottom of the README:
+
 ## Tech I love
 
 Ruby and Rust, with strong experience in Rails, GraphQL, microservices, and domain-driven design. I'm a maintainer of [Hanami], [dry-rb], and [rom-rb], and a big fan of everything in that ecosystem.
@@ -46,6 +51,8 @@ When I'm not programming, you'll find me playing Magic: The Gathering Commander,
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[Hanami]: https://hanamirb.org/
+[aaronmallen.dev]: https://aaronmallen.dev
 [dry-rb]: https://dry-rb.org/
+[GitHub archive]: https://aaronmallen.dev/github-archive
+[Hanami]: https://hanamirb.org/
 [rom-rb]: https://rom-rb.org/
