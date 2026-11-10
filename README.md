@@ -7,7 +7,6 @@ a Senior Software Engineer with 17+ years of building software that solves real-
 ## Source code
 
 My source code now lives on [aaronmallen.dev]. My GitHub repositories will be mirrors of those hosted there. You can find my old GitHub source code in the [GitHub archive].
-Add these links at the bottom of the README:
 
 ## Tech I love
 
