@@ -1,12 +1,8 @@
 # 👋 I'm Aaron
 
-<https://aaronmallen.me>
+<a href="https://aaronmallen.me" rel="me">https://aaronmallen.me</a>
 
 a Senior Software Engineer with 17+ years of building software that solves real-world problems. I'm passionate about domain modularity, clean architecture, and crafting maintainable software in Ruby and Rust.
-
-## Source code
-
-My source code now lives on [aaronmallen.dev]. My GitHub repositories will be mirrors of those hosted there. You can find my old GitHub source code in the [GitHub archive].
 
 ## Tech I love
 
@@ -37,10 +33,11 @@ When I'm not programming, you'll find me playing Magic: The Gathering Commander,
 
 ## 🌐 Socials
 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aaronmallen.dev)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://ruby.social/@aaronmallen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronmallen)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aaronmallen)
+<a href="https://discord.gg/PqQdhf9VMF" rel="me"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=%23FFFFFF" alt="Discord"></a>
+<a href="https://bsky.app/profile/aaronmallen.dev" rel="me"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&amp;logo=bluesky&amp;logoColor=%23FFFFFF" alt="Bluesky"></a>
+<a href="https://ruby.social/@aaronmallen" rel="me"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&amp;logo=mastodon&amp;logoColor=white" alt="Mastodon"></a>
+<a href="https://linkedin.com/in/aaronmallen" rel="me"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/aaronmallen" rel="me"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="X"></a>
 
 # 💻 Tech Stack
 
@@ -50,8 +47,6 @@ When I'm not programming, you'll find me playing Magic: The Gathering Commander,
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[aaronmallen.dev]: https://aaronmallen.dev
 [dry-rb]: https://dry-rb.org/
-[GitHub archive]: https://aaronmallen.dev/github-archive
 [Hanami]: https://hanamirb.org/
 [rom-rb]: https://rom-rb.org/
